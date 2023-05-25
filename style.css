@@ -37,4 +37,11 @@ a {
     padding: 10px;
     justify-content: center;
 }
+/*  First Recipe Page */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
