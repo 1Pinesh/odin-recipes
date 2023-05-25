@@ -10,5 +10,31 @@ h1 {
     padding: 5px;
 }
 .image{
-    width: 250px;
+    width: 270px;
+    height: 300px;
 }
+a {
+    font-size: 23px;
+}
+
+.first-recipes {
+    display: flex;
+    flex-direction: column;
+}
+.second-recipes {
+    display: flex;
+    flex-direction: column;
+}
+.third-recipes {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    margin: 5px;
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    padding: 10px;
+    justify-content: center;
+}
+
