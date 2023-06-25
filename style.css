@@ -18,10 +18,22 @@ h1 {
     margin-bottom: 20px;
     padding: 20px;
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightblue;
+  color: black;
+  text-align: center;
+  font-size: 32px;
+}
+
 .image{
     width: 270px;
     height: 300px;
 }
+
 a {
     font-size: 23px;
 }
