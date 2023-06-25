@@ -27,6 +27,7 @@ h1 {
   color: black;
   text-align: center;
   font-size: 32px;
+  padding:32px;
 }
 
 .image{
@@ -41,14 +42,20 @@ a {
 .first-recipes {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .second-recipes {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .third-recipes {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
